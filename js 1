@@ -1,0 +1,10 @@
+console.log('hello world')
+console.log(1+2)
+let x=2,y=4
+console.log(y-x)
+console.log(y+x)
+console.log(y*x)
+console.log(y**x)
+console.log(625/5)
+console.log(625==747)
+//if nay of theseare honw
